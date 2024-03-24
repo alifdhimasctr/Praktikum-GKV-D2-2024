@@ -1,7 +1,5 @@
-// Template untuk mainan objek 3D 
-// Kamera bisa maju mundur kiri kanan 
-// Sudah dilengkapi pencahayaan 
-// Sekarang pake texture
+//Muthia Zhafira Sahnah 24060122130071 
+//Tugas 4
 
 #include <math.h> 
 #include <GL/glut.h> 
