@@ -1,0 +1,3 @@
+// Nama		: Hamam Azidani
+// NIM		: 24060122130099
+// Deskripsi: Program untuk Model Tangan
